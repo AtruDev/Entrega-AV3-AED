@@ -1,0 +1,17 @@
+# Binários e objetos de compilação
+*.o
+*.obj
+*.exe
+*.out
+truco
+a.out
+
+# Arquivos de dados gerados em tempo de execução
+caderneta.txt
+historico.txt
+
+# IDE / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
